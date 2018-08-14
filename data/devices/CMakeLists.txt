@@ -56,6 +56,7 @@ set(files
     samsung/05_galaxy_tab_tablet.yml
     samsung/06_galaxy_note_tablet.yml
     samsung/07_other.yml
+    samsung.yml
     sony.yml
     symphony.yml
     tecno.yml
